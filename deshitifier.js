@@ -9,3 +9,4 @@ try {document.getElementById("u_0_t").remove();} catch(e) {}
 try {document.getElementById("pagelet_rhc_footer").remove();} catch(e) {}
 try {document.getElementById("universalNav").remove();} catch(e) {}
 try {document.getElementById("createNav").remove();} catch(e) {}
+try {document.getElementById("pagelet_megaphone").remove();} catch(e) {}
